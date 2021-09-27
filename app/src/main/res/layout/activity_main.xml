@@ -55,12 +55,35 @@
         android:layout_below="@id/iv_wave_top"
         android:layout_above="@id/iv_wave_bottom"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true">
+        android:paddingStart="32dp"
+        android:paddingEnd="32dp"
+        android:layout_alignParentEnd="true"
+        android:orientation="vertical">
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/login_title"
+            android:textAppearance="@style/title"/>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_subtitle"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"/>
 
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:hint="@string/login_et_email">
 
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
+        </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
 
     <ImageView

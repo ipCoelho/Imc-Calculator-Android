@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Imc app 2.0</string>
+    <string name="app_name">Imc App 2.0</string>
+    <!-- name="activity_name"-->
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Faça login para continuar</string>
+    <string name="login_et_email">E-mail</string>
+    <string name="login_et_password">Senha</string>
+<!--    <string name="login_"-->
 </resources>
