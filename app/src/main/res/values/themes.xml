@@ -14,9 +14,15 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="title" parent="TextAppearance.MaterialComponents.Headline1">
+    <style name="title" parent="TextAppearance.AppCompat.Large">
         <item name="android:textSize">32sp</item>
         <item name="android:textColor">#80000000</item>
         <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="button_login" parent="@style/Widget.MaterialComponents.Button">
+        <item name="backgroundTint">#73f707</item>
+        <item name="android:padding">8dp</item>
+        <item name="cornerRadius">16dp</item>
     </style>
 </resources>

@@ -5,5 +5,10 @@
     <string name="login_subtitle">Faça login para continuar</string>
     <string name="login_et_email">E-mail</string>
     <string name="login_et_password">Senha</string>
-<!--    <string name="login_"-->
+    <string name="login_btn_enter">Entrar</string>
+    <string name="login_chkbox_remember_me">Lembrar-me</string>
+    <string name="login_tv_noAccount">Não tem uma conta?</string>
+    <string name="login_btn_forgetPassword">Esqueci a senha</string>
+    <string name="login_btn_createAccount">Criar uma conta agora</string>
+    <!--    <string name="login_"-->
 </resources>
