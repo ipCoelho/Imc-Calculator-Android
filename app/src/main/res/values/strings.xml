@@ -10,5 +10,12 @@
     <string name="login_tv_noAccount">Não tem uma conta?</string>
     <string name="login_btn_forgetPassword">Esqueci a senha</string>
     <string name="login_btn_createAccount">Criar uma conta agora</string>
+
     <!--    <string name="login_"-->
+
+    <!-- Dashboard Activity -->
+    <string name="dashboard_card1_title">Pesar agora</string>
+    <string name="dashboard_card2_title">Ver histórico</string>
+    <string name="dashboard_card1_description">Atualizar peso agora.</string>
+    <string name="dashboard_card2_description">Reveja seu progresso.</string>
 </resources>
