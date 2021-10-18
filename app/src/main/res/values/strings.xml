@@ -18,4 +18,6 @@
     <string name="dashboard_card2_title">Ver histórico</string>
     <string name="dashboard_card1_description">Atualizar peso agora.</string>
     <string name="dashboard_card2_description">Reveja seu progresso.</string>
+    <string name="user_name">Leonardo De Caprio</string>
+    <string name="user_ocupation">Actor</string>
 </resources>

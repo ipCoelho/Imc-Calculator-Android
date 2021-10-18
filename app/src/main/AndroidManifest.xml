@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/bmi"
         android:supportsRtl="true"
         android:theme="@style/Theme.ImcApp20">
-        <activity android:name=".DashboardActivity"></activity>
+        <activity android:name=".NewUserActivity"></activity>
+        <activity android:name=".DashboardActivity" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">
